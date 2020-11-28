@@ -16,6 +16,6 @@ Step 6: Appropriately change the labels of the data set to descriptive variable 
 Step 7: Group the mydata table by subject and activity. Create a second independent data set (mydata2 object) and summmarize with the average of each variable for each activity and each subject
 
 
-Step 8: Export the table with the tidy data set as csv file (mean.train.test.X.txt)
+Step 8: Export the table with the tidy data set as txt file (mean.train.test.X.txt)
 
 
